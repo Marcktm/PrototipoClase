@@ -1,4 +1,4 @@
-![](imagesClass1\LogoTesla.png)
+![logo](imagesClass1\LogoTesla.png)
 
 # COMPONENTES DE UNA PC
 
