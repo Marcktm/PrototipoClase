@@ -58,15 +58,15 @@ Este cuestionario va dirigido a los alumnos del curso de Reparación de PC y tie
 
 ### **Predictivo**
 
-    Por medio de herramientas de diagnostico monitorizo el funcionamiento afín de anticiparme al problema.
+Por medio de herramientas de diagnostico monitorizo el funcionamiento afín de anticiparme al problema.
 
-    Se realiza en forma observacional (aplicando nuestros sentidos sensoriales) o bien utilizando herramientas de diagnósticos. Deriva de estos controles problemas asociados a ruidos, vibraciones, sobrecalentamientos descargas eléctricas, etc.
+Se realiza en forma observacional (aplicando nuestros sentidos sensoriales) o bien utilizando herramientas de diagnósticos. Deriva de estos controles problemas asociados a ruidos, vibraciones, sobrecalentamientos descargas eléctricas, etc.
 
 ### **Correctivo**
 
-    Cuando Falla el Predictivo y/o el preventivo hay roturas averías, entonces, hay que corregir el problema para que el equipo vuelva a funcionar y trabajar en las causas.
+Cuando Falla el Predictivo y/o el preventivo hay roturas averías, entonces, hay que corregir el problema para que el equipo vuelva a funcionar y trabajar en las causas.
 
-    También llamado reactivo. Se trabaja en la corrección del problema o la avería ocurrida. Se rompió algo y hay que repararlo o cambiarlo.
+También llamado reactivo. Se trabaja en la corrección del problema o la avería ocurrida. Se rompió algo y hay que repararlo o cambiarlo.
 
 ### **Preventivo**
 
@@ -84,7 +84,7 @@ También llamado planicado. Consiste en diagramar un cronograma de acciones sobr
 
 ### **Evolutivo**
 
-    Lograr que el equipo no se vuelva obsoleto, actualizando el hardware y el software. Actualizar la tecnología.
+Lograr que el equipo no se vuelva obsoleto, actualizando el hardware y el software. Actualizar la tecnología.
 
-    Consiste en intervenir con actualizaciones de componentes o de programas para lograr que el equipo no se vuelva obsoleto ante los cambios tecnológicos, tales como: ampliar la memoria RAM, agregar unidades de almacenamiento o reemplazarlas por nuevas tecnologías, cambiar sistema operativo, instalar nuevas versiones de software, etc. Todo ello siempre que sea posible, es decir que haya compatibilidad.
+Consiste en intervenir con actualizaciones de componentes o de programas para lograr que el equipo no se vuelva obsoleto ante los cambios tecnológicos, tales como: ampliar la memoria RAM, agregar unidades de almacenamiento o reemplazarlas por nuevas tecnologías, cambiar sistema operativo, instalar nuevas versiones de software, etc. Todo ello siempre que sea posible, es decir que haya compatibilidad.
 
