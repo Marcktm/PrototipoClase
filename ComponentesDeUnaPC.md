@@ -1,5 +1,7 @@
 ![logo](imagesClass1\LogoTesla.png)
 
+<image src="imagesClass1\LogoTesla.png" alt = "">
+
 # COMPONENTES DE UNA PC
 
 ## HARDWARE
