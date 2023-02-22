@@ -35,6 +35,7 @@ Como software los agrupamos como Software:
 * Otros propósitos: Virus, malware, etc.
 
     ![](imagesClass1\SOFTWARE2.jpg)
+    <image src="imagesClass1\SOFTWARE2.jpg" alt = "">
 
 ## Introducción a la reparación de PC - ¿De qué se trata el curso?
 ---
