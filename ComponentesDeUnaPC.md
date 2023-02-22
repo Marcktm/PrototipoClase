@@ -1,4 +1,4 @@
-![logo](C:\Users\Marck\OneDrive\Escritorio\PrototipoClases\imagesClass1\LogoTesla.png)
+![logo](imagesClass1\LogoTesla.png)
 
 # COMPONENTES DE UNA PC
 
